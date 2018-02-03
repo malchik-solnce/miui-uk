@@ -7,6 +7,10 @@
         <item quantity="few">Видалити %d плейлиста?</item>
         <item quantity="many">Видалити %d плейлистів?</item>
      </plurals>
+	 <plurals name="Ndownload_fee_alert_message">
+        <item quantity="other">На прохання власника авторських прав, %d треків не підтримують безкоштовні завантаження. Ці пісні були додані в менеджер завантажень.</item>
+        <item quantity="one">На прохання власника авторських прав, %d трек не підтримує безкоштовні завантаження. Ця пісня була додана в менеджер завантажень.</item>
+     </plurals>
 	 <plurals name="notif_title_multiple_downloading">
         <item quantity="other">Завантаження %1$d треків</item>
         <item quantity="one">Завантаження %1$d треку</item>

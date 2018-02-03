@@ -34,4 +34,6 @@
     <string name="group_name_friends">Друзі</string>
     <string name="unknown">Невідомий номер</string>
 	<string name="video_call">Відеовиклик</string>
+	<string name="sim_state_changed">SIM-карту змінено</string>
+    <string name="voicemail_cleanup">Очистити голосову пошту</string>
 </resources>

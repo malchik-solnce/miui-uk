@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="action_cancel">Скасувати</string>
+	 <string name="submit_dialog_content_global">Ваш відгук, включаючи вкладення та журнали буде відправлений на сервер MIUI. Журнали можуть містити особисту інформацію та дані про місцезнаходження. Ви можете не відправляти журнали, знявши прапорець.</string>
+	 
 	 <string name="mobile_data_note_dialog_cancel">Очікувати Wi-Fi</string>
      <string name="mobile_data_note_dialog_confirm">Завантижити</string>
      <string name="mobile_data_note_dialog_content">Використання мобільного трафіку для завантаження журналів може привести до додаткових витрат</string>

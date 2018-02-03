@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Import">Імпорт</string>
+	 <string name="cityname_1">Ежедневные обои</string>
+	 <string name="filter_bi_memory">Спогади</string>
+     <string name="filter_bi_mono">Моно</string>
+     <string name="filter_bi_pink">Розова пантера</string>
+     <string name="filter_bi_portrait">Портрет</string>
+     <string name="filter_bi_retro">Ретро</string>
+     <string name="filter_bi_romantic">Романтика</string>
+     <string name="filter_bi_strong">Міцність</string>
+     <string name="filter_bi_sunny">Сонячно</string>
+     <string name="filter_bi_sweet">Солодко</string>
+     <string name="filter_bi_warm">Теплота</string>
+     <string name="filter_bi_young">Молодість</string>
+     <string name="mark_myself_default_name">Я</string>
+     <string name="mark_myself_suggestion_load_more">Це не я</string>
+     <string name="mark_myself_suggestion_title">"Виберіть фотографії з Вашим обличчям
+для персоналізації галереї"</string>
+     <string name="mark_operation_failed">Не вдалося додати</string>
+     <string name="mark_operation_processing">Обробка…</string>
+     <string name="mark_operation_succeeded">Успішно додано</string>
+     <string name="mark_people_ignore_info_message">Натисніть та утримуйте фото людей, щоб додати їх в групи</string>
+	 
 	 <string name="add_to_album_failed_with_reason">"Неможливо додати до альбому. %1$s."</string>
      <string name="loading_processing_tip">Обробка фото…</string>
      <string name="operate_processing_file_error">Зачекайте, поки будуть оброблені всі фото</string>

@@ -8,6 +8,8 @@
 	 <string name="menu_white">Крім</string>
 	 <string name="lockpattern_tutorial_continue_label_confirm">Натисніть OK</string>
      <string name="lockpattern_tutorial_continue_label_next">Натисніть Далі</string>
+	 <string name="network_changed_noti_summary">Використання мобільного трафіку</string>
+     <string name="network_changed_noti_title">Відключено від Wi-Fi</string>
 	 
 	 <string name="firewall_temp_rule_reason">%2$s обмежує інтернет для %1$s​</string>
 	 <string name="app_manager_mobile_slot1">Мобільний інтернет (SIM 1)</string>

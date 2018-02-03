@@ -6,6 +6,11 @@
 	 <string name="music_dirac_mode_cancelling">Mi Noise Cancelling (3.5 мм)</string>
      <string name="navigation_guide_app_summary">Проведіть пальцем вліво або вправо від краю екрану в верхню область</string>
      <string name="navigation_guide_app_title">Виклик додатків</string>
+	 <string name="night_light">Нічне освітлення</string>
+     <string name="night_light_brightness">Яскравість</string>
+     <string name="night_light_color">Колір</string>
+     <string name="night_light_summary">Мінімізуйте підсвічування в умовах низької освітленості, щоб увійти в режим нічного освітлення</string>
+     <string name="paper_mode_side_effect_hint">Більш високе значення може вплинути на відображення вмісту</string>
 	 
 	 <string name="mute_music_stream">Відключити гучність медіа</string>
 	 <string name="navigation_guide_back_anim_summary">Жест назад з анімацією</string>

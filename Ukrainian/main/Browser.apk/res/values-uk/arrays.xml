@@ -8,6 +8,51 @@
         <item>Зелена</item>
         <item>Синя</item>
      </string-array>
+	 <string-array name="suggestion_weather_condition_message">
+        <item>Ясно</item>
+        <item>Мінлива хмарність</item>
+        <item>Хмарно</item>
+        <item>Shower</item>
+        <item>Грози</item>
+        <item>Град</item>
+        <item>Мокрий сніг</item>
+        <item>Невеликий дощ</item>
+        <item>Moderate rain</item>
+        <item>Heavy rain</item>
+        <item>Злива</item>
+        <item>Проливний дощ</item>
+        <item>Шторм</item>
+        <item>Сніг</item>
+        <item>Легкий сніг</item>
+        <item>Помірний сніг</item>
+        <item>Снігопад</item>
+        <item>Заметіль</item>
+        <item>Fog</item>
+        <item>Freezing rain</item>
+        <item>Піщана буря</item>
+        <item>Small to moderate rain</item>
+        <item>Medium to heavy rain</item>
+        <item>Heavy to torrential rain</item>
+        <item>Torrential rain to downpour</item>
+        <item>Downpour to extreme rainstorm</item>
+        <item>Light to moderate snow</item>
+        <item>Moderate to heavy snow</item>
+        <item>Heavy to blizzard</item>
+        <item>Floating dust</item>
+        <item>Raising sand</item>
+        <item>Піщана буря</item>
+        <item>Dense fog</item>
+        <item>Strong fog</item>
+        <item>Димка</item>
+        <item>Moderate haze</item>
+        <item>Heavy haze</item>
+        <item>Severe haze</item>
+        <item>Густий туман</item>
+        <item>Strong dense fog</item>
+        <item>Nothing</item>
+        <item>Дощ</item>
+        <item>Сніг</item>
+     </string-array>
 	 <string-array name="pref_fling_on_border_gesture_entries">
         <item>Сторінку вперед / назад</item>
         <item>Перемикання вкладок</item>

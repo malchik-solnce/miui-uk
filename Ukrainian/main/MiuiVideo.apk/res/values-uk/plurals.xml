@@ -4,6 +4,10 @@
         <item quantity="other">Коментарів: %d</item>
         <item quantity="one">Коментарів: %d</item>
     </plurals>
+	<plurals name="favor_short_selected_counts">
+        <item quantity="other">Вибрано: %1$s</item>
+        <item quantity="one">Вибрано: %1$s</item>
+     </plurals>
 	<plurals name="subtitle_offset_advance_times">
         <item quantity="other">Прискорення субтитрів на %.1f секунд</item>
         <item quantity="one">Прискорення субтитрів на %.1f секунду</item>

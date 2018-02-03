@@ -8,6 +8,24 @@
      <string name="talkback_header_search">"Пошук "</string>
      <string name="talkback_like">Подобається</string>
      <string name="talkback_unlike">Не подобається</string>
+	 <string name="comment_action_title">Коментар до %s</string>
+     <string name="comment_input_empty">Немає вмісту</string>
+     <string name="comment_input_hint">Введіть свій коментар</string>
+     <string name="comment_ref_format">%1$s:%2$s</string>
+     <string name="comment_ref_reply_format">Відповісти@%1$s:%2$s</string>
+     <string name="delete_comment_failed">Помилка при видаленні коментаря</string>
+     <string name="download_fee_alert_title">Завантажити куплені треки</string>
+     <string name="impunity_declaration_content">Продовжуючи, Ви погоджуєтеся з умовами, викладеними в нашій %1$s та %2$s.</string>
+     <string name="impunity_declaration_content_agreement">Угода користувача </string>
+     <string name="impunity_declaration_content_policy">Політики конфіденційності</string>
+     <string name="like_comment_failed">Неможливо оцінити коментар</string>
+     <string name="paused_waiting_to_pay">Очікування оплати</string>
+     <string name="post_comment_failed">Не вдалося відправити коментар</string>
+     <string name="reply_comment">Відповісти</string>
+     <string name="reply_comment_hint">Відповісти@%s</string>
+     <string name="send_comment">Відправити</string>
+     <string name="show_download_manager">В менеджер завантажень</string>
+     <string name="to_be_downloaded">В завантаження</string>
 	 
 	 <string name="talkback_nowplaying_bar">Грати розподіл</string>
      <string name="talkback_nowplaying_circle">Грати коло</string>

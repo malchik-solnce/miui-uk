@@ -2,6 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="access_denied">Доступ заборонений</string>
+	 <string name="micloud_alert_dialog_negative">Відміна</string>
+     <string name="micloud_alert_dialog_positive">OK</string>
+     <string name="micloud_main_head_menu_finddevice_unavailable">Пошук пристрою недоступний у другому просторі. Ви можете використовувати його в першому просторі.</string>
+	 
 	 <string name="confirm_delete">Видалити</string>
      <string name="confirm_save">Залишити</string>
      <string name="secret_photo">Приховані фото</string>
@@ -37,7 +41,6 @@
 	 <string name="micloud_main_head_menu_state_unavailable">Недоступний</string>
      <string name="reading_status">Завантаження статусу…</string>
      <string name="reading_status_failure">Не вдалося завантажити статус</string>
-	 
 	 <string name="activate_find_device_success">Пошук пристрою активовано</string>
      <string name="cloud_find_device_off">Вимк.</string>
      <string name="cloud_find_device_on">Увмк.</string>

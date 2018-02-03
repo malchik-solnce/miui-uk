@@ -32,6 +32,15 @@
      <string name="temperature_unit_F">%1$s℉</string>
      <string name="updated_a_moment_ago">Оновлено хвилин тому</string>
      <string name="updating">Оновлення...</string>
+	 <string name="abrupt_weather_settings_summary_type_a">Попередження про надзвичайну погоду</string>
+     <string name="abrupt_weather_settings_summary_type_b">Попередження про надзвичайну погоду</string>
+     <string name="abrupt_weather_settings_title">Попередження про погоду</string>
+     <string name="content_desc_back_button">Назад</string>
+     <string name="content_desc_close_button">Закрити</string>
+     <string name="content_desc_edit_city_manage">Керування містами</string>
+     <string name="menu_speaker">Голосове мовлення</string>
+     <string name="minute_rain">Що хвилинний прогноз</string>
+     <string name="missing_required_permission">Ви вимкнули необхідний дозвіл</string>
 	 
 	<string name="xiaomi_weather_description_content">Додаток погода надає точну інформацію про прогноз погоди. Видалення впливатиме на функції рядка стану, годин і т.д. Ви хочете видалити його?</string>
      <string name="xiaomi_weather_description_title">Про погоду</string>

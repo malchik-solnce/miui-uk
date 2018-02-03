@@ -17,6 +17,15 @@
      <string name="lock_screen_date_12">EEEE, d MMMM</string>
      <string name="no_comment">Будьте першим, хто відповість</string>
      <string name="sliding_on_unlock">Проведіть вгору для розблокування</string>
+	 <string name="comment_to_loading">Увійдіть, щоб додавати коментарі</string>
+     <string name="favor_short_video">Короткі відео</string>
+     <string name="favor_short_video_title">Вибрані короткі відео</string>
+     <string name="t_comment_success">Успішно відправлено</string>
+     <string name="toast_add_collect">Додано в обране</string>
+     <string name="toast_cancel_collect">Вилучено з вибраного</string>
+     <string name="toast_login_success">Вхід виконано</string>
+     <string name="v_base_folder">SD-карта</string>
+     <string name="v_feedback_title">Виберіть причини, за якими ви більше не хочете це бачити</string>
 	 
 	 <string name="cta_tips">Щоб оптимізувати відтворення, запрошуємо Вас взяти участь у плані поліпшення. Необхідне підключення до мережі, коли Ви використовуєте плеєр. Чи згодні чи ні?</string>
      <string name="vp_aggree">Згоден</string>

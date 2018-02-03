@@ -8,6 +8,14 @@
      <string name="turn_on_smart_antispam_summary">Завантажувати та ідентифікувати невідомі номери з історії викликів і текстових повідомлень</string>
 	 <string name="send_shortcut_already_exists">Ярлик вже існує</string>
 	 <string name="mark_number_notification_title">Повідомити про підозрілий номер</string>
+	 <string name="antispam_curr_version">Поточна версія: %d</string>
+     <string name="antispam_data_downloading">Завантаження інформації. Це може зайняти 3-5 секунд.</string>
+     <string name="antispam_data_downloading_error">Не вдалося підключитися до мережі</string>
+     <string name="antispam_local_newest">Оновлень немає</string>
+     <string name="antispam_network_remind_summary">Завантажити оновлення за допомогою мобільного інтернету?</string>
+     <string name="antispam_network_remind_title">Попередження трафіку</string>
+     <string name="antispam_pull_newest">Оновлене до версії %d</string>
+     <string name="antispam_update_version">Перевірити наявність оновлень</string>
 	 
 	<string name="express_install_cainiao_description">%s вимагає встановлення Cainiao. Встановити зараз?</string>
      <string name="express_install_delivery_service">Служби доставки</string>
