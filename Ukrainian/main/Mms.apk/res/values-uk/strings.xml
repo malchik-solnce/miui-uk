@@ -19,6 +19,8 @@
      <string name="pref_title_allow_upload_message_info">Завантажувати спам-повідомлення</string>
      <string name="sms_report">Повідомити про спам</string>
 	 <string name="snippet_timed">[Таймер]</string>
+	 <string name="attach_transaction">Відправити гроші</string>
+     <string name="select_phone_number">Виберіть номер телефону</string>
 	 
 	 <string name="pref_show_photo_word_summary">Автоматично призначати зображення контактам без них</string>
      <string name="title_show_photo_word">Призначати фото</string>

@@ -9,6 +9,7 @@
      <string name="view_history_clear_all_description">Очистити історію перегляду</string>
      <string name="view_history_clear_single_description">Видалити цей елемент з історії перегляду</string>
      <string name="webview_more_description">Додаткові функції</string>
+	 <string name="hint_web">Пошук сайтів</string>
 	 
 	 <string name="mi_account">Mi акаунт</string>
 	 <string name="hint_baidu">Пошук сайтів</string>

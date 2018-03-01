@@ -19,6 +19,10 @@
      <string name="quick_dial_setting_title">Швидкий набір</string>
      <string name="search_quick_dial_setting">Контакти</string>
      <string name="status_bar_notification_info_overflow">999+</string>
+	 <string name="contact_detail_entry_pay">Оплатити</string>
+     <string name="contact_detail_entry_pay_dialog_title">Виберіть номер телефону</string>
+     <string name="preference_contacts_moresetting">Ще</string>
+     <string name="preference_display_contact">Варіанти відображення</string>
 	 
 	 <string name="hybrid_webpage_not_available">Веб-сторінка недоступна</string>
      <string name="t9_search_empty_create_contact">Новий контакт</string>

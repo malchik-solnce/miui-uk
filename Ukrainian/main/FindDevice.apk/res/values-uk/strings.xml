@@ -7,6 +7,7 @@
      <string name="sys_notification_async_open_failed_title">Не вдалося включити Пошук пристрою</string>
      <string name="sys_notification_async_verify_content">Наша оновлена ​​політика безпеки вимагає повторної активації Пошуку пристрою</string>
      <string name="sys_notification_async_verify_title">Реактивація Пошуку пристрою</string>
+	 <string name="open_wifi_settings">Відкрити параметри Wi-Fi</string>
 	 
 	 <string name="default_debt_msg_words">"Цей пристрій заблоковано через заборгованість вашого пристрою.
 Зверніться до торгового агента."</string>

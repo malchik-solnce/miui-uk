@@ -5,6 +5,8 @@
      <string name="accessibility_recent_task_locked_state">Заблоковано</string>
      <string name="accessibility_recent_task_unlocked_state">Розблоковано</string>
 	 <string name="please_slide_agian">Посуньте ще раз</string>
+	 <string name="how_to_use_drawer">Як використовувати функцію змінного додатку</string>
+     <string name="how_to_use_drawer_summary">Проведіть пальцем угорі ліворуч</string>
 	 
 	 <string name="click_expand">Натисніть, щоб розгорнути</string>
      <string name="fs_gesture_back_home_summary">Посуньте знизу швидко</string>

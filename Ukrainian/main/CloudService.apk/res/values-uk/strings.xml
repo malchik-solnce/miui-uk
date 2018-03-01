@@ -5,6 +5,19 @@
 	 <string name="micloud_alert_dialog_negative">Відміна</string>
      <string name="micloud_alert_dialog_positive">OK</string>
      <string name="micloud_main_head_menu_finddevice_unavailable">Пошук пристрою недоступний у другому просторі. Ви можете використовувати його в першому просторі.</string>
+	 <string name="find_device_gdpr_prompt">Вмикаючи функцію Пошук пристрою, Ви погоджуєтеся з \"Політикою конфіденційності\". Вимкніть цю функцію, якщо Вам потрібно скасувати авторизацію конфіденційності.</string>
+     <string name="find_device_gdpr_prompt_policy_doc_name">\"Політикою конфіденційності\"</string>
+     <string name="micloud_notif_content_privacy_reopen_failed">Подивитися деталі</string>
+     <string name="micloud_notif_title_privacy_reopen_failed">Не вдалося запустити хмарну службу</string>
+     <string name="micloud_privacy_cloud_off">Синхронізація вимкнена</string>
+     <string name="micloud_privacy_cloud_sync">Активація Mi Cloud</string>
+     <string name="micloud_privacy_explanation">Активація Mi Cloud після увімкнення авторизації</string>
+     <string name="micloud_privacy_licence_agreed">Погодьтеся з політикою конфіденційності Mi Cloud</string>
+     <string name="micloud_privacy_licence_privacy_policy">Політикою конфіденційності</string>
+     <string name="micloud_privacy_more">Більше</string>
+     <string name="micloud_privacy_warning_button">Назад</string>
+     <string name="micloud_privacy_warning_content">Неможливо активувати Mi Cloud. Спробуйте пізніше.</string>
+     <string name="micloud_privacy_warning_title">Порада</string>
 	 
 	 <string name="confirm_delete">Видалити</string>
      <string name="confirm_save">Залишити</string>

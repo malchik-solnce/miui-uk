@@ -9,6 +9,8 @@
      <string name="phone_verify_text">%1$s не отримає Ваш номер телефону, просто перевірить відповідність.</string>
      <string name="phone_verify_title">Дозволяєте %1$s перевіряти номер телефону</string>
 	 <string name="agree">OK</string>
+	 <string name="privacy_revoke_failed_msg">Відгук приватності. Неможливо отримати номер телефону. Активація не вдалася.</string>
+     <string name="privacy_revoke_tips">Якщо Ви скасуєте, синхронізація повідомлень буде вимкнено</string>
 	 
 	<string name="activate_history_canceled_overview">Активацію SIM-карти було скасовано. Активацію запущено \"%1$s\".</string>
      <string name="activate_history_multisim_canceled_overview">Активацію SIM-карти %2$d було скасовано. Активацію  запущено \"%1$s\".</string>

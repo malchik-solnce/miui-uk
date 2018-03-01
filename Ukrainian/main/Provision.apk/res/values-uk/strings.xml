@@ -9,6 +9,8 @@
      <string name="system_navigation_mode">Режим управління</string>
 	 <string name="voice_assist_desp">Скажіть телефону \"Mi AI\". Mi AI розпізнає Ваш голос і Ви зможете керувати пристроєм голосом.</string>
      <string name="voice_assist_title">Голосовий помічник</string>
+	 <string name="other_settings_ad_enable">Персоналізована реклама</string>
+     <string name="other_settings_ad_enable_summary">Персоналізована реклама на основі ваших інтересів</string>
 	 
 	<string name="item_fingerprint">Відбиток пальця</string>
      <string name="item_lock_screen_password">Тільки пароль блокування</string>

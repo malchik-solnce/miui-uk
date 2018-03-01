@@ -10,6 +10,12 @@
      <string name="lockpattern_tutorial_continue_label_next">Натисніть Далі</string>
 	 <string name="network_changed_noti_summary">Використання мобільного трафіку</string>
      <string name="network_changed_noti_title">Відключено від Wi-Fi</string>
+	 <string name="ac_notification_contentText">Натисніть, щоб увімкнути</string>
+     <string name="ac_notification_contentTitle">Блокування додатків</string>
+     <string name="ac_post_notification_contentText">Отримайте захист системного рівня</string>
+     <string name="ac_post_notification_contentTitle">Блокування додатків</string>
+     <string name="ac_pre_notification_contentText">Захистіть особисту інформацію</string>
+     <string name="ac_pre_notification_contentTitle">Блокування додатків</string>
 	 
 	 <string name="firewall_temp_rule_reason">%2$s обмежує інтернет для %1$s​</string>
 	 <string name="app_manager_mobile_slot1">Мобільний інтернет (SIM 1)</string>

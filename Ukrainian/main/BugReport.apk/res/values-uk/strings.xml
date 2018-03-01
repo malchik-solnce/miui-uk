@@ -3,6 +3,14 @@
 <resources>
      <string name="action_cancel">Скасувати</string>
 	 <string name="submit_dialog_content_global">Ваш відгук, включаючи вкладення та журнали буде відправлений на сервер MIUI. Журнали можуть містити особисту інформацію та дані про місцезнаходження. Ви можете не відправляти журнали, знявши прапорець.</string>
+	 <string name="feedback_select_modem_log_not_select_desc">"Не вибрано \"Додати журнали модему\""</string>
+     <string name="feedback_select_modem_log_select_desc">Вибрано \"Додати журнали модему\"</string>
+     <string name="feedback_select_problem_not_select_desc">"Не вибрано \"Питання\""</string>
+     <string name="feedback_select_problem_select_desc">Вибрано \"Питання\"</string>
+     <string name="feedback_select_suggestion_not_select_desc">"Не вибрано \"Додатки\""</string>
+     <string name="feedback_select_suggestion_select_desc">Вибрано \"Додатки\"</string>
+     <string name="feedback_select_upload_log_not_select_desc">"Не вибрано \"Додати журнали\""</string>
+     <string name="feedback_select_upload_log_select_desc">Вибрано \"Додати журнали\"</string>
 	 
 	 <string name="mobile_data_note_dialog_cancel">Очікувати Wi-Fi</string>
      <string name="mobile_data_note_dialog_confirm">Завантижити</string>

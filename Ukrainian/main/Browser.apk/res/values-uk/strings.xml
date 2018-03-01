@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="context_menu_add_to_desk_id">Додати на головний екран</string>
+	 <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Не вдалося розпізнати файл. Дозволи на доступ до файлів можуть перешкоджати доступу.</string>
+	 
      <string name="context_menu_orientation_portrait_swap_id">В/Г орієнтація</string>
      <string name="data_monitor">Монітор даних</string>
      <string name="data_monitor_dialog_message">Схоже, що щось витрачає мобільний трафік. Відкрийте стартову сторінку, щоб зупинити.</string>

@@ -15,6 +15,12 @@
 	 <string name="fingerprint_not_identified_msg_lock">Занадто багато невдалих спроб. Введіть пароль.</string>
 	 <string name="digital_clock_dot">:</string>
      <string name="keyguard_left_view_lock_wallpaper">Щоденні шпалери</string>
+	 <string name="change_to_ac_charging">Переключено на безпровідну зарядку</string>
+     <string name="reset_device_detail_tip">Безпровідна зарядка. Тримайте телефон по центру бази, щоб забезпечити швидкість зарядки.</string>
+     <string name="reset_device_tip">Повільна зарядка. Перемістіть телефон.</string>
+     <string name="wireless_charge_dialog_cancel">Відміна</string>
+     <string name="wireless_charge_dialog_title">Зміщення позиції. Перекладіть телефон.</string>
+     <string name="wireless_charge_stop">Безпровідну зарядку припинено</string>
 	 
 	 <string name="input_password_handle_sdcard_fs">Перед входом відключіть Оптимізацію SD-карти в налаштуваннях для розробників</string>
 	 <string name="btn_camera">Введіть своє обличчя</string>

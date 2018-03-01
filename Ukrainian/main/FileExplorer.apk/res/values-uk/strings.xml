@@ -12,6 +12,21 @@
      <string name="load_more_load_end">Кінець сторінки</string>
      <string name="load_more_load_failed">Помилка завантаження. Натисніть для повтору.</string>
      <string name="load_more_loading">Завантаження...</string>
+	 <string name="ad_txt">Реклама</string>
+     <string name="download_ad_count">Залишилося %s с.</string>
+     <string name="download_ad_count_more">Залишилося ще %s с.</string>
+     <string name="download_complete_txt">Завантаження завершено</string>
+     <string name="download_downloading_txt">Завантаження...</string>
+     <string name="download_install_txt">Встановити</string>
+     <string name="download_installing_txt">Встановлення...</string>
+     <string name="download_now_txt">Завантажити</string>
+     <string name="download_open_txt">Відкрити</string>
+     <string name="download_pause_txt">Пауза</string>
+     <string name="download_resume_txt">Продовжити</string>
+     <string name="download_txt">Завантажити</string>
+     <string name="error">Помилка</string>
+     <string name="look_detail">Детальніше</string>
+     <string name="transition_image">перехідне зображення</string>
 	 
 	 <string name="cannot_send">Неможливо відправити файли з зовнішнього сховища</string>
      <string name="clock_in">Перевірка…</string>

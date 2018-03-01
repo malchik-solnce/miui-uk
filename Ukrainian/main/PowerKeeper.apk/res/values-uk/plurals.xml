@@ -20,4 +20,8 @@
         <item quantity="other">Вибрано: %1$d</item>
         <item quantity="one">Вибрано: %1$d</item>
      </plurals>
+	 <plurals name="search_app_count_txt_na">
+        <item quantity="other">Пошук додатків: %d</item>
+        <item quantity="one">Пошук додатків: %d</item>
+     </plurals>
 </resources>

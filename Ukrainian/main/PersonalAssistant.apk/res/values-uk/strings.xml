@@ -37,6 +37,11 @@
      <string name="fav_tab_shopping">Покупки</string>
      <string name="fav_tab_video">Відео</string>
 	 <string name="express_install_cainiao_not_found">Mi Market не знайдений</string>
+	 <string name="generate_view_failed">Будь ласка, спробуйте пізніше</string>
+     <string name="template_retry_button">Повторити</string>
+     <string name="template_update_error">Помилка оновлення шаблону</string>
+     <string name="upgrade_bottom_dialog">Оновлення!!</string>
+     <string name="upgrade_now_bottom">Оновити</string>
 	 
 	<string name="access_change_text" formatted="false">Замінити %d на %d?</string>
      <string name="access_select">Вибрано: %s</string>

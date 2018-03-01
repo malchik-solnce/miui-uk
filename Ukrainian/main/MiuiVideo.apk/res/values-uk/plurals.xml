@@ -4,6 +4,14 @@
         <item quantity="other">Коментарів: %d</item>
         <item quantity="one">Коментарів: %d</item>
     </plurals>
+	<plurals name="finish_item_all_counts">
+        <item quantity="other">%1$s відео</item>
+        <item quantity="one">%1$s відео</item>
+     </plurals>
+     <plurals name="v_cache_videos">
+        <item quantity="other">Кешованих відео: %d</item>
+        <item quantity="one">Кешованих відео: %d</item>
+     </plurals>
 	<plurals name="favor_short_selected_counts">
         <item quantity="other">Вибрано: %1$s</item>
         <item quantity="one">Вибрано: %1$s</item>

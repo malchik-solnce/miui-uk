@@ -27,6 +27,21 @@
      <string name="callFailed_dialVideoToSs">Відеодзвінок змінений на SS запит</string>
      <string name="callFailed_dialVideoToUssd">Відеодзвінок змінений на USSD запит</string>
 	 <string name="quick_dial_setting_title">Швидкий набір</string>
+	 <string name="cfnry_time_fifteen_sec">15 с.</string>
+     <string name="cfnry_time_five_sec">5 с.</string>
+     <string name="cfnry_time_setting_title">Встановити час очікування</string>
+     <string name="cfnry_time_ten_sec">10 с.</string>
+     <string name="cfnry_time_thirty_sec">30 с.</string>
+     <string name="cfnry_time_twenty_five_sec">25 с.</string>
+     <string name="cfnry_time_twenty_sec">20 с.</string>
+     <string name="vice_slot_volte_data_switch_prompt">Пристрій буде підключатися до мобільного інтернету з другої SIM-карти під час VoLTE викликів. Це може привести до додаткової витрати трафіку. Зверніться до оператора за детальною інформацією.</string>
+     <string name="vice_slot_volte_data_switch_summary">Під час VoLTE викликів пристрій буде підключатися до мобільного інтернету з другої SIM-карти</string>
+     <string name="vice_slot_volte_data_switch_title">VoLTE виклики по мобільному трафіку з другої SIM</string>
+	 <string name="prompt_to_turnoff_volte_when_failed">Послуги VoLTE недоступні. Вимкніть VoLTE, щоб зателефонувати.</string>
+     <string name="prompt_to_turnoff_volte_when_supp_service">Послуга недоступна. Вимкніть VoLTE в налаштуваннях.</string>
+     <string name="prompt_when_turnon_volte_without_lte">Тепер мережі LTE недоступні. Включення VoLTE може перешкодити вам виконувати звичайні дзвінки.</string>
+     <string name="volte_switch_summary2">Перед увімкненням переконайтеся, що Ваш оператор підтримує цю функцію. В іншому випадку можуть бути порушені звичайні дзвінки.</string>
+     <string name="volte_tips_when_turn_on">Послуги China Telecom VoLTE надаються тільки в зонах з охопленням мережі LTE.</string>
 	 
 	 <string name="change_pin_cancel_label">Відміна</string>
      <string name="change_pin_confirm_pin_header">Підтвердіть PIN-код</string>

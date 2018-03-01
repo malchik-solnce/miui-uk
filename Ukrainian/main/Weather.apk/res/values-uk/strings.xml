@@ -2,6 +2,9 @@
 <!-- Parsed by jbart2a -->
 <resources>
     <string name="act_find_city_hint">Пошук</string>
+	<string name="information_settings_title">Інформація про погоду</string>
+     <string name="other_settings">Інші налаштування</string>
+	 
 	<string name="aqi_settings_summary">Налаштування ІЯП</string>
      <string name="aqi_settings_title">Попередження ІЯП</string>
      <string name="it_is_going_to_rain">Скоро буде дощ</string>
