@@ -8,4 +8,22 @@
         <item quantity="other">Очікуванння завантаження: %d</item>
         <item quantity="one">Очікування завантаження</item>
     </plurals>
+	<plurals name="notification_download_success_more">
+        <item quantity="other">Завантажено: %1$d</item>
+        <item quantity="one">Завантажено: %1$d</item>
+        <item quantity="few">Завантажено: %1$d</item>
+        <item quantity="many">%1$d downloaded</item>
+    </plurals>
+    <plurals name="notif_title_multiple_downloading">
+        <item quantity="other">Завантаження %1$d файлів</item>
+        <item quantity="one">Завантаження %1$d файла</item>
+        <item quantity="few">Завантаження %1$d файлів</item>
+        <item quantity="many">Downloading %1$d files</item>
+    </plurals>
+    <plurals name="notification_download_failed_more">
+        <item quantity="other">"Не вдалося завантажити %1$d об'єктів"</item>
+        <item quantity="one">"Не вдалося завантажити %1$d об'єкт"</item>
+        <item quantity="few">"Не вдалося завантажити %1$d об'єкта"</item>
+        <item quantity="many">"Couldn't download %1$d items"</item>
+    </plurals>
 </resources>
