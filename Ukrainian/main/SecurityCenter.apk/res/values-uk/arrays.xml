@@ -99,14 +99,17 @@
         <item>Вчора (мобільний інтернет)</item>
         <item>Сьогодні (мобільний інтернет)</item>
         <item>За місяць (мобільний інтернет)</item>
+		<item>Місяць (мобільний інтернет)</item>
         <item>Вчора (Wi-Fi)</item>
         <item>Сьогодні (Wi-Fi)</item>
         <item>За місяць (Wi-Fi)</item>
+		<item>Місяць (Wi-Fi)</item>
      </string-array>
      <string-array name="date_of_traffic">
         <item>"Вчора "</item>
         <item>"Сьогодні "</item>
         <item>"За місяць "</item>
+		<item>"Місяць "</item>
      </string-array>
      <string-array name="date_of_traffic_cmcc">
         <item>"На цьому тижні "</item>
@@ -117,6 +120,7 @@
         <item>"Вчора "</item>
         <item>"Сьогодні "</item>
         <item>"За місяць "</item>
+		<item>"Місяць "</item>
      </string-array>
      <string-array name="date_of_traffic_prefix_cmcc">
         <item>"На цьому тижні: "</item>
