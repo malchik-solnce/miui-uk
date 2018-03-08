@@ -42,7 +42,10 @@
      <string name="template_update_error">Помилка оновлення шаблону</string>
      <string name="upgrade_bottom_dialog">Оновлення!!</string>
      <string name="upgrade_now_bottom">Оновити</string>
-	 
+	 <string name="card_title_empty_agenda">Немає поїздки</string>
+     <string name="card_title_empty_express">Немає кур'єрів</string>
+     <string name="card_title_empty_note">На сьогодні заміток немає</string>
+
 	<string name="access_change_text" formatted="false">Замінити %d на %d?</string>
      <string name="access_select">Вибрано: %s</string>
      <string name="access_unselect">Не вибрано: %s</string>
