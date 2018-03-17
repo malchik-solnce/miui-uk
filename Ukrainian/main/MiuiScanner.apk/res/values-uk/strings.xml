@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="accept">ОК</string>
+     <string name="accept">OK</string>
+	 
 	 <string name="document_recognize_null_tip">Результат документа порожній</string>
      <string name="error_get_image">Не вдалося отримати зображення</string>
 	 <string name="label_choose_picture">Зображення</string>
      <string name="label_flash_light">Спалах</string>
-	 
+	 <string name="ar_unsupport_for_kk">Ця функція не підтримує 4.4</string>
+     <string name="miracast_connect">Проекція</string>
+     <string name="miracast_connect_fail">Не вдалося. Повторіть.</string>
+     <string name="miracast_connect_success">Підключено</string>
+     <string name="miracast_connecting">Проекція…</string>
+     <string name="miracast_details">Відскануте QR-код для проекції</string>
+     <string name="miracast_message">Віщати на Mi TV?</string>
+     <string name="miracast_switch_off">Безпровідний екран вимкнений</string>
+     <string name="miracast_switch_tip">Для використання цієї функції увімкніть безпровідний екран</string>
+     <string name="recognition_ar_download_data_msg">Використовувати мобільний інтернет для завантаження AR даних розміром близько 13 МБ?</string>
+     <string name="recognition_ar_download_msg">Завантаження AR даних розміром близько 13 МБ</string>
+     <string name="recognition_download_title">Будь-ласка зачекайте</string>
+     <string name="switch_open">Увімкнути</string>
 	 <string name="app_description_content">Сканер може сканувати QR-коди, візитні картки та документи. Перед видаленням додатки переконайтеся, що Ви можете обійтися без цих функцій.</string>
      <string name="app_description_title">Про додаток</string>
 	 <string name="back">Назад</string>

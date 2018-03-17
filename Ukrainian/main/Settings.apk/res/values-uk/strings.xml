@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 
+	 <string name="privacy_authorize_cloud_msg">Щоб забезпечити безпеку облікового запису, зайдіть на i.mi.com, якщо Ви хочете скасувати, щоб отримати сервісів Mi Cloud (включаючи синхронізацію та резервне копіювання)</string>
+     <string name="secondspace_category">Другий простір</string>
+     <string name="secondspace_delete_space_title">Видалити другий простір</string>
+     <string name="wfd_status_dialog_disconnect">Вимкнути</string>
+     <string name="wfd_status_dialog_message">Вміст екрану відображається на іншому пристрої за допомогою безпровідної технології</string>
+     <string name="wfd_status_dialog_title">Безпровідний екран</string>
+	 <string name="carrier_show_in_lock_screen">Тільки на екрані блокування</string>
+     <string name="carrier_show_none">Не відображати</string>
+     <string name="memory_system_rom">Системне сховище</string>
+     <string name="memory_system_space">"Системна пам'ять"</string>
 	 <string name="title_jeejen">Jeejen</string>
 	 <string name="wifi_click_login_wlan">Необхідна авторизація</string>
 	 <string name="music_dirac_mode_cancelling">Mi Noise Cancelling (3.5 мм)</string>
@@ -35,7 +46,6 @@
      <string name="tether_auto_disable_summary">Автоматично вимикати точку доступу, якщо немає підключених пристроїв</string>
      <string name="tether_auto_disable_title">Автовідключення точки доступу</string>
      <string name="use_personalized_ad_service_summary">Буде показуватися загальна реклама, не на основі Ваших інтересів</string>
-	 
 	 <string name="mute_music_stream">Відключити гучність медіа</string>
 	 <string name="navigation_guide_back_anim_summary">Жест назад з анімацією</string>
 	 <string name="navigation_guide_back_anim_title">Анімація жесту назад</string>

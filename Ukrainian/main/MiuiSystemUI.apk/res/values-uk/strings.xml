@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-     <string name="accessibility_airplane_mode">Режим польоту</string>
+     <string name="recent_cannot_dock">Багатовіконний режим недоступний у другому просторі</string>
+	 <string name="low_temperature_button_ok">Зрозуміло</string>
+     <string name="low_temperature_warning_message">Занадто низька температура. Телефон може бути вимкнений в будь-який час. Збережіть дані.</string>
+     <string name="low_temperature_warning_title">Попередження про вимикання</string>
+	 
+	 <string name="accessibility_airplane_mode">Режим польоту</string>
 	 <string name="accessibility_drag_hint_message">Перетягніть елементи в верхню частину екрану</string>
      <string name="accessibility_recent_task_locked_state">Заблоковано</string>
      <string name="accessibility_recent_task_unlocked_state">Розблоковано</string>
 	 <string name="please_slide_agian">Посуньте ще раз</string>
 	 <string name="how_to_use_drawer">Як використовувати функцію змінного додатку</string>
      <string name="how_to_use_drawer_summary">Проведіть пальцем угорі ліворуч</string>
-	 
 	 <string name="click_expand">Натисніть, щоб розгорнути</string>
      <string name="fs_gesture_back_home_summary">Посуньте знизу швидко</string>
      <string name="fs_gesture_back_ready_title">Як повернутися назад?</string>

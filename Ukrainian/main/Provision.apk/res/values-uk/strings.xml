@@ -11,6 +11,7 @@
      <string name="voice_assist_title">Голосовий помічник</string>
 	 <string name="other_settings_ad_enable">Персоналізована реклама</string>
      <string name="other_settings_ad_enable_summary">Персоналізована реклама на основі ваших інтересів</string>
+	 <string name="other_settings_user_experience_summary_index">Детальніше</string>
 	 
 	<string name="item_fingerprint">Відбиток пальця</string>
      <string name="item_lock_screen_password">Тільки пароль блокування</string>

@@ -7,6 +7,10 @@
         <item quantity="few">%d елемента до оптимізації</item>
         <item quantity="many">%d елементів до оптимізації</item>
      </plurals>
+	 <plurals name="gb_signed_days_sum">
+        <item quantity="other">Перевірено %d дн. підряд</item>
+        <item quantity="one">Перевірено %d раз</item>
+     </plurals>
 	 <plurals name="fw_blocked_count_call_one">
         <item quantity="other">Дзвінків: %1$d | Від %2$s та інших</item>
         <item quantity="one">%1$d дзвінок від %2$s</item>

@@ -2,6 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="access_denied">Доступ заборонений</string>
+	 <string name="micloud_web_discription_place_holder">Відвідайте %1$s</string>
+	 
 	 <string name="micloud_alert_dialog_negative">Відміна</string>
      <string name="micloud_alert_dialog_positive">OK</string>
      <string name="micloud_main_head_menu_finddevice_unavailable">Пошук пристрою недоступний у другому просторі. Ви можете використовувати його в першому просторі.</string>
@@ -18,7 +20,7 @@
      <string name="micloud_privacy_warning_button">Назад</string>
      <string name="micloud_privacy_warning_content">Неможливо активувати Mi Cloud. Спробуйте пізніше.</string>
      <string name="micloud_privacy_warning_title">Порада</string>
-	 
+	 <string name="micloud_privacy_progress_content">Надання авторизації…</string>
 	 <string name="confirm_delete">Видалити</string>
      <string name="confirm_save">Залишити</string>
      <string name="secret_photo">Приховані фото</string>

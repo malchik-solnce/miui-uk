@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="about">Про додаток</string>
+	 <string name="download_starting">Початок завантаження</string>
+	 
 	 <string name="common_agree">OK</string>
      <string name="common_cancel">Відміна</string>
      <string name="no_network_tips">Ця функція тимчасово недоступна. Немає мережі.</string>
@@ -53,7 +55,6 @@
      <string name="v_cache_remainder">Залишилося</string>
      <string name="v_download_need_vip_">Отримайте підписку Mi Video, щоб завантажити це відео безкоштовно</string>
      <string name="v_join_vip">Підписатися</string>
-	 
 	 <string name="cta_tips">Щоб оптимізувати відтворення, запрошуємо Вас взяти участь у плані поліпшення. Необхідне підключення до мережі, коли Ви використовуєте плеєр. Чи згодні чи ні?</string>
      <string name="vp_aggree">Згоден</string>
 	 <string name="toast_downloading">Завантаження:</string>

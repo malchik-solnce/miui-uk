@@ -2,6 +2,10 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="CFActivate">Активувати</string>
+	 <string name="close_volte">Увімкнути VoLTE</string>
+     <string name="prefered_network_type_3g_promp">Ви повинні вимкнути VoLTE перед вибором 3G як пріоритетний тип мережі. Вимкнути зараз?</string>
+     <string name="prompt_when_turnon_volte_on_3g_prefered">Перед увімкненням VoLTE виберіть LTE як пріоритетний тип мережі</string>
+	 
 	 <string name="carrier_info">Інформація про оператора</string>
 	 <string name="path_call_advanced_settings_title">Системні додатки/Телефон/Додаткові налаштування</string>
 	 <string name="other_available_phone_accounts">Інші доступні акаунти</string>
@@ -42,7 +46,6 @@
      <string name="prompt_when_turnon_volte_without_lte">Тепер мережі LTE недоступні. Включення VoLTE може перешкодити вам виконувати звичайні дзвінки.</string>
      <string name="volte_switch_summary2">Перед увімкненням переконайтеся, що Ваш оператор підтримує цю функцію. В іншому випадку можуть бути порушені звичайні дзвінки.</string>
      <string name="volte_tips_when_turn_on">Послуги China Telecom VoLTE надаються тільки в зонах з охопленням мережі LTE.</string>
-	 
 	 <string name="change_pin_cancel_label">Відміна</string>
      <string name="change_pin_confirm_pin_header">Підтвердіть PIN-код</string>
      <string name="change_pin_confirm_pins_dont_match">PIN-коди не співпадають</string>

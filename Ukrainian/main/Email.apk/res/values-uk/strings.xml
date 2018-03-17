@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Folders">Теки</string>
+	 <string name="see_more_content">Переглянути більше контенту</string>
+     <string name="signature_black_shark">Відправлено з мого телефону Blackshark</string>
+	 
 	 <string name="confirm_delete_attachment">Видалити вкладення?</string>
      <string name="system_security_open_error">Не вдалося налаштувати центр безпеки. Надайте дозволи в налаштуваннях телефону.</string>
      <string name="toastbar_calendar_and_contacts_permission_switch_close">Немає дозволу на доступ до календаря та контактів. Вони не можуть бути синхронізовані.</string>
@@ -33,7 +36,6 @@
      <string name="qq_auto_login_failed_dialog_message">"Скопіюйте код авторизації, потім поверніться на сторінку входу і натисніть «Ввести ім'я користувача та пароль»; вставте вміст в поле введення пароля для входу в систему вручну"</string>
      <string name="qq_auto_login_failed_dialog_positive_label">Скопіюйте код авторизації</string>
      <string name="retry_login">Увійдіть ще раз</string>
-	 
 	 <string name="account_settings_preference_add_account">Додати обліковий запис поштового ящика</string>
      <string name="account_settings_preference_head_icon">Показувати фото відправників</string>
      <string name="account_settings_preference_notify">Замітка</string>

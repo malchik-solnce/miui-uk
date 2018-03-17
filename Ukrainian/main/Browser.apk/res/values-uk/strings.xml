@@ -1,8 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="context_menu_add_to_desk_id">Додати на головний екран</string>
-	 <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Не вдалося розпізнати файл. Дозволи на доступ до файлів можуть перешкоджати доступу.</string>
 	 
+	 <string name="mw_miuichromium_error_page_problem_file_not_readable_reason_access_denied">Не вдалося розпізнати файл. Дозволи на доступ до файлів можуть перешкоджати доступу.</string>
+	 <string name="action_menu_download">Завантаження</string>
+     <string name="action_menu_text_readmode">Режим читання</string>
+     <string name="close">Закрити</string>
+     <string name="com_taobao_tae_sdk_web_view_activity_feedback_strings_delete">Видалити</string>
+     <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_add_picture">Додати зображення</string>
+     <string name="enter_the_group_name">Введіть назву групи</string>
+     <string name="enter_the_password">Введіть пароль</string>
+     <string name="enter_the_user_name">"Введіть ім'я користувача"</string>
+     <string name="save_to_bookmark">Зберегти в закладки</string>
+     <string name="storage_close">Закрити</string>
+     <string name="storage_open">Відкрити</string>
+	 <string name="green_kid_block_request">Веб-сайт заборонений до відвідування батьками</string>
+     <string name="voice_open_permission_baidu">Перейдіть в розділ «Налаштування», щоб увімкнути голосові дозволи для налаштувань розпізнавання мови</string>
+     <string name="voice_open_permission_xiaoai">Перейдіть в розділ «Налаштування», щоб увімкнути голосові дозволи для голосового движка Xiaoai</string>
+     <string name="voice_open_permission_xunfei">Перейдіть в розділ «Налаштування», щоб увімкнути голосові дозволи для голосових налаштувань</string>
      <string name="context_menu_orientation_portrait_swap_id">В/Г орієнтація</string>
      <string name="data_monitor">Монітор даних</string>
      <string name="data_monitor_dialog_message">Схоже, що щось витрачає мобільний трафік. Відкрийте стартову сторінку, щоб зупинити.</string>

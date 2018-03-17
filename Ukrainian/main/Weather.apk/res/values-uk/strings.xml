@@ -4,6 +4,20 @@
     <string name="act_find_city_hint">Пошук</string>
 	<string name="information_settings_title">Інформація про погоду</string>
      <string name="other_settings">Інші налаштування</string>
+	 <string name="china_version_first_start_network_msg">Продовжуючи, Ви погоджуєтеся з %1$s та %2$s Xiaomi. Для нормальної роботи додатку потрібне підключення до мережі.</string>
+     <string name="international_version_first_start_network_msg">Продовжуючи, Ви погоджуєтеся з %1$s Xiaomi. Для нормальної роботи додатку потрібне підключення до мережі.</string>
+	 <string name="button_settings_cancel">Відміна</string>
+     <string name="button_settings_confirm">OK</string>
+     <string name="button_settings_confirm_to_revoke_msg">Ви не зможете використовувати додаток Погода. Продовжити?</string>
+     <string name="button_settings_confirm_to_revoke_title">Відміна авторизації</string>
+     <string name="eu_region_version_first_start_network_msg">"Використовуючи цей продукт, Ви погоджуєтеся з тим, що Xiaomi буде збирати, обробляти та використовувати Вашу особисту інформацію, включаючи координати міст, які ви шукаєте, та інші типи даних, зазначені в нашій Політиці конфіденційності. Зверніться до нашої Політиці конфіденційності, щоб дізнатися, як ми збираємо і обробляємо особисті дані. Продовження означає, що Ви згодні з нашими %1$s b %2$s."</string>
+     <string name="policy_settings">Умови використання</string>
+     <string name="privacy_grant_failed">"Не вдалося надати авторизацію. Будь ласка, спробуйте пізніше."</string>
+     <string name="privacy_grant_or_revoke_settings">Авторизація</string>
+     <string name="privacy_grant_success">Авторизацію надано</string>
+     <string name="privacy_revoke_failed">"Не вдалося скасувати авторизацію. Будь ласка, спробуйте пізніше."</string>
+     <string name="privacy_revoke_success">Авторизація скасована</string>
+     <string name="privacy_settings">Політика конфіденційності</string>
 	 
 	<string name="aqi_settings_summary">Налаштування ІЯП</string>
      <string name="aqi_settings_title">Попередження ІЯП</string>

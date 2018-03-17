@@ -2,7 +2,10 @@
 <resources>
     <string name="sina_share_pendding">Відправлення…</string>
 	<string name="privacy_revoke_msg">"Додаток дозволяє оновлювати MIUI. Після скасування авторизації додаток припинить збір даних, та всі пов'язані дані (включаючи дані про пристрої, які потребують оновлення) будуть видалені з цього пристрою та серверів. Відмова в оновленні пристрою може призвести до ризиків безпеки. Скасувати авторизацію в будь-якому випадку?"</string>
-	
+	<string name="file_path_error_btn">OK</string>
+     <string name="file_path_error_msg">Переконайтеся, що шлях до оновлення містить тільки літери та цифри</string>
+     <string name="file_path_error_title">Невірний шлях</string>
+	 
 	<string name="home_delay_cancel">Відміна</string>
      <string name="home_delay_msg">Оновлення будуть встановлені між 2:00 та 5:00 год., якщо батарея не менше %s</string>
      <string name="home_delay_ok">OK</string>

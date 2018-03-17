@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="SMS_and_MMS">SMS і MMS</string>
+	 
+	 <string name="app_manager_uninstall">Видалення</string>
+	 <string name="gb_get_gift_right_now">Перевірено тільки що</string>
+     <string name="gb_have_signed">Перевірено сьогодні</string>
+     <string name="gb_network_status_bad">Помилка підключення</string>
+     <string name="gb_sign_gift">Перевірте, щоб отримати нагороди</string>
+     <string name="gb_sign_gift_button_text">Отримати</string>
+     <string name="gb_sign_notification_summary">Перевіряйте щодня для отримання прискорення Xunyou</string>
+     <string name="gb_sign_notification_title">Підвищити швидкість мережі для ігор</string>
+     <string name="gb_signed_gift_loading_fail">Не вдалося завантажити</string>
+     <string name="gb_signed_gift_loading_summary">Зачекайте…</string>
+     <string name="gb_signed_title">Перевірено в цьому місяці</string>
+     <string name="gb_xunyou_gift_type_one">Xunyou прискорення на 1 день</string>
+     <string name="gb_xunyou_gift_type_three">Xunyou прискорення на 3 дні</string>
+     <string name="gb_xunyou_gift_type_two">Xunyou прискорення на 2 дні</string>
+     <string name="gs_open_game_booster_summary">Підвищити швидкість мережі для ігор</string>
+     <string name="gs_sign_notification">Щодня нагадувати про перевірку (20:00)</string>
+     <string name="signed_rule">Правила</string>
+     <string name="signed_rule_one">1. Перевіряйте 10, 20 або 28 днів поспіль щомісяця, щоб отримати прискорення Xunyou на 1, 2 або 3 дні відповідно.</string>
+     <string name="signed_rule_three">3. Перевірені дні анулюються на початку кожного місяця. Дні, що залишилися не переносяться.</string>
+     <string name="signed_rule_two">2. Ви можете отримати тільки одне прискорення Xunyou в місяць</string>
+	 <string name="sms_smart_engine_update_now">Оновити</string>
+	 <string name="dlg_sec_network_unavailable">Додаток не може оновлюватися, оскільки обмежений доступ до мережі. Дозволити використовувати підключення до мережі?</string>
+     <string name="dlg_update_btn_contiue">OK</string>
+     <string name="dlg_update_btn_open">Дозволити</string>
+     <string name="dlg_update_data_content">Використання мобільних даних може привести до додаткових грошових витрат. Продовжити?</string>
+     <string name="dlg_update_date_title">Увага</string>
+     <string name="dlg_update_updating">Оновлення…</string>
+     <string name="toast_update_fail">Не вдалося оновити</string>
+     <string name="toast_update_nonetwork">Не вдалося підключитися до мережі</string>
+     <string name="toast_update_notneed">Оновлення не потрібне</string>
+     <string name="toast_update_success">Успішно оновлено</string>
+     <string name="data_usage_mobile_dialog_title">Ви вже використовували 5 ГБ мобільного трафіку. Мобільний інтернет відключений.</string>
+     <string name="data_usage_protected_dialog_message">"Мобільний інтернет вимкнений, щоб уникнути додаткової плати.
+
+При наступному увімкненні ваш оператор може стягувати додаткову плату."</string>
+     <string name="data_usage_protected_notify_message">Мобільний інтернет вимкнений, щоб уникнути додаткової плати</string>
+     <string name="data_usage_protected_notify_title">Ви вже використовували 5 ГБ мобільного трафіку</string>
+     <string name="dialog_restrict_all_mobile_summary">"Обмежити %s мобільне з'єднання для всіх додатків"</string>
+     <string name="dialog_restrict_all_mobile_title">Обмеження %s мобільного трафіку</string>
+     <string name="dialog_restrict_all_wlan_summary">"Обмежити Wi-Fi з'єднання для всіх додатків"</string>
+     <string name="dialog_restrict_all_wlan_title">Обмеження Wi-Fi трафику</string>
+     <string name="dialog_restrict_negative">Обмежити</string>
+     <string name="dialog_restrict_positive">Відміна</string>
+     <string name="gdpr_msg"><Data>"Щоб використовувати основні функції додатку, Ви повинні погодитися з тим, що Xiaomi буде збирати, обробляти та використовувати Ваші особисті дані, включаючи інформацію про способи використання функцій безпеки (наприклад, статистика використання мобільних даних, інформація про шкідливі додатки, а також базову інформацію по вашому пристрою) та інші типи інформації, зазначені в нашій &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Політики конфіденційності&lt;/a>."</Data></string>
 	 <string name="lucky_alarm_count_down">0:00:00</string>
      <string name="lucky_alarm_count_down_default">0:00:00</string>
      <string name="lucky_alarm_item_date">27</string>
@@ -16,7 +61,6 @@
      <string name="ac_post_notification_contentTitle">Блокування додатків</string>
      <string name="ac_pre_notification_contentText">Захистіть особисту інформацію</string>
      <string name="ac_pre_notification_contentTitle">Блокування додатків</string>
-	 
 	 <string name="firewall_temp_rule_reason">%2$s обмежує інтернет для %1$s​</string>
 	 <string name="app_manager_mobile_slot1">Мобільний інтернет (SIM 1)</string>
      <string name="app_manager_mobile_slot2">Мобільний інтернет (SIM 2)</string>
@@ -57,7 +101,6 @@
      <string name="unlock_set_unlock_pin_summary">Введіть 4 цифри</string>
      <string name="unlock_set_unlock_pin_title">PIN-код</string>
      <string name="wrong_password">Невірний пароль</string>
-	 
 	 <string name="app_manager_cache_size">Кеш</string>
      <string name="app_manager_clear_all_data">Очистити всі дані</string>
      <string name="app_manager_clear_dlg_title">Очистити дані</string>

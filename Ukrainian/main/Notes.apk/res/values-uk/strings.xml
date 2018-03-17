@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
 <resources>
      <string name="add_account_desc">Синхронізувати нотатки з вашим Mi акаунтом?</string>
+	 <string name="dialog_privacy_revoke_tips">"Після скасування авторизації додаток припинить збір даних, та всі пов'язані дані будуть видалені з серверів. Це може зробити додаток практично непридатним для використання. Продовжити? Щоб забезпечити безпеку облікового запису, увійдіть i.mi.com, перш ніж скасувати авторизацію для сервісів Mi Cloud."</string>
+	 
 	 <string name="toast_reach_text_limit_checkbox">Не можна додати прапорець. Замітка занадто довга.</string>
 	 <string name="cloud_service_state_open_reminder">Увімкніть синхронізацію з Mi Cloud для синхронізації нотаток</string>
 	 <string name="refuse_to_open_as_pic_because_of_loading">Дочекайтеся завантаження замітки та спробуйте ще раз</string>
      <string name="toast_cancel_to_insert_image">Скасування вставки зображень</string>
-	 
 	 <string name="refuse_to_share_as_pic_because_of_content">Ця замітка занадто велика, щоб поділитися</string>
      <string name="refuse_to_share_as_pic_because_of_loading">Дочекайтеся завантаження замітки та повторіть</string>
 	 <string name="db_downgrade_clear_button">Очистити дані додатку</string>
