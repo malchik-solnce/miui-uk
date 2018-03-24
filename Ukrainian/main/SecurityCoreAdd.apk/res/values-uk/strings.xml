@@ -30,7 +30,18 @@
      <string name="space_create_guide_title_1">Захист конфіденційності</string>
      <string name="space_create_guide_title_2">Створення в будь-який час</string>
      <string name="space_create_guide_title_3">Абсолютно без ризику</string>
-
+     <string name="bind_device">"Прив'язати пристрій"</string>
+     <string name="control_and_guarding">Управління та захист</string>
+	 <string name="add_spare_text">Захист</string>
+     <string name="can_not_switch_when_green_kid_active">Увімкнений батьківський контроль</string>
+     <string name="experience_more_features">"Прив'яжіть пристрій для отримання додаткових функцій"</string>
+     <string name="green_guard">Тест</string>
+     <string name="green_guard_des1">Проста та швидка робота</string>
+     <string name="green_guard_des2">Запит місцеположення в режимі реального часу, захист безпеки</string>
+     <string name="green_guard_des3">Управління додатками на пристрої для управління часом використання</string>
+     <string name="green_guard_title2">Перегляд свого розташування</string>
+     <string name="green_guard_title3">Управління додатками</string>
+	 
 	 <string name="dialog_title">Увага</string>
      <string name="optimize_now">Оптимізувати</string>
 	 <string name="remove_user_click_message">"* Якщо у Вас немає важливих предметів у другому просторі, %s"</string>

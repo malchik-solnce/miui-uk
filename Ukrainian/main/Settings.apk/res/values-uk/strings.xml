@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string name="Accounts_settings_title">Облікові записи</string>
+	 <string name="key_operation_diagram">Діаграма операцій</string>
+     <string name="provision_activation">Активний</string>
 	 
 	 <string name="privacy_authorize_cloud_msg">Щоб забезпечити безпеку облікового запису, зайдіть на i.mi.com, якщо Ви хочете скасувати, щоб отримати сервісів Mi Cloud (включаючи синхронізацію та резервне копіювання)</string>
      <string name="secondspace_category">Другий простір</string>

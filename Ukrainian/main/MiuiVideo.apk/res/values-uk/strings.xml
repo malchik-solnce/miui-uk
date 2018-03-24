@@ -2,6 +2,25 @@
 <resources>
      <string name="about">Про додаток</string>
 	 <string name="download_starting">Початок завантаження</string>
+	 <string name="airkan_device_my_phone">Мій телефон</string>
+     <string name="detail_downloaded">Завантажено</string>
+     <string name="detail_downloading">Завантаження…</string>
+     <string name="offline_download_setting">Завантаження</string>
+     <string name="offline_issue">Часті питання про завантаження відео</string>
+     <string name="offline_setting_mobile_net_limit_size1">1 ГБ</string>
+     <string name="offline_setting_mobile_net_limit_size2">500 МБ</string>
+     <string name="offline_setting_mobile_net_limit_summary">Обмежити використання мобільного трафіку після досягнення встановленої межі</string>
+     <string name="offline_setting_mobile_net_limit_title">Обмеження трафіку</string>
+     <string name="offline_setting_mobile_net_unlimited">Без обмежень</string>
+     <string name="v_change_mobile_net_setting">Налаштування</string>
+     <string name="v_continue_offline">Завантажити</string>
+     <string name="v_mobile_net_limit_text">Поточне обмеження: після %1$s</string>
+     <string name="v_mobile_net_unlimited_text">Поточне обмеження: немає</string>
+     <string name="v_remind_use_mobile_net_text">Використання мобільного трафіку для завантаження відео може привести до додаткових витрат. Продовжити?</string>
+     <string name="v_server_formal">Звичайний сервер</string>
+     <string name="v_server_test">Тестовий сервер</string>
+     <string name="v_version_alpha">Альфа</string>
+     <string name="v_version_release">Стабільний</string>
 	 
 	 <string name="common_agree">OK</string>
      <string name="common_cancel">Відміна</string>

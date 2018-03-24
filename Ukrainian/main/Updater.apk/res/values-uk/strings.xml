@@ -5,6 +5,7 @@
 	<string name="file_path_error_btn">OK</string>
      <string name="file_path_error_msg">Переконайтеся, що шлях до оновлення містить тільки літери та цифри</string>
      <string name="file_path_error_title">Невірний шлях</string>
+	 <string name="accessibility_play">Дивитися</string>
 	 
 	<string name="home_delay_cancel">Відміна</string>
      <string name="home_delay_msg">Оновлення будуть встановлені між 2:00 та 5:00 год., якщо батарея не менше %s</string>

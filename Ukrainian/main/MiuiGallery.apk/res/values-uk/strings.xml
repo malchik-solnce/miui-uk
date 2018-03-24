@@ -21,6 +21,9 @@
      <string name="mark_operation_processing">Обробка…</string>
      <string name="mark_operation_succeeded">Успішно додано</string>
      <string name="mark_people_ignore_info_message">Натисніть та утримуйте фото людей, щоб додати їх в групи</string>
+	 <string name="storage_description_primary">"Внутрішня пам'ять"</string>
+     <string name="storage_description_sdcard">SD-карта</string>
+     <string name="storage_description_xspace">Клоновані додатки</string>
 	 
 	 <string name="add_to_album_failed_with_reason">"Неможливо додати до альбому. %1$s."</string>
      <string name="loading_processing_tip">Обробка фото…</string>

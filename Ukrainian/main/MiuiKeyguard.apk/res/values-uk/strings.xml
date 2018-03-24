@@ -2,6 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="accessibility_enter_lock_wallpaper">Натисніть на шпалери екрану блокування</string>
+	 <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Неможливо переключитися між просторами, коли активний greenguard</string>
 	 
 	 <string name="wallpaper_global_des_drop_down_notify_text">Відпустіть для перегляду подробиць</string>
 	 <string name="lock_screen_no_sim_card">Немає SIM-карти</string>

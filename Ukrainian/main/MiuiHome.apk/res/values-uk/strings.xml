@@ -2,6 +2,21 @@
 <resources>
      <string name="activity_not_found">Додаток не знайдено</string>
 	 <string name="gadget_clock_34_label">Годинники 4x3</string>
+	 <string name="defalut_launcher_title">Робочий стіл за замовчуванням</string>
+     <string name="launcher_auto_fill_empty_title">Автозаповнення порожніх іконок</string>
+     <string name="launcher_title">Робочий стіл та панель завдань</string>
+     <string name="lock_screen_cells_title">Блокувати переміщення іконок</string>
+     <string name="miui_screen_config_title">Налаштування робочого столу</string>
+     <string name="open_personal_assistant_dialog_btn_cancel">Відміна</string>
+     <string name="open_personal_assistant_dialog_btn_confirm">OK</string>
+     <string name="open_personal_assistant_dialog_desc">Ви не зможете використовувати швидкі картки та отримувати його поновлення. Вимкнути?</string>
+     <string name="open_personal_assistant_dialog_title">Вимкнення швидких карток</string>
+     <string name="open_personal_assistant_title">Швидкі картки</string>
+     <string name="preferred_app_settings_not_selected">Не обрано</string>
+     <string name="recents_config_title">Налаштування панелі задач</string>
+     <string name="screen_cells_config_title">Розмір сітки</string>
+     <string name="show_mem_info_title">"Показувати статус пам'яті"</string>
+     <string name="title_jeejen">Робочий стіл Jeejen</string>
 	 
 	 <string name="menu_auto_fill">Автозаповнення</string>
      <string name="menu_cell_setting">Налаштування екрану</string>

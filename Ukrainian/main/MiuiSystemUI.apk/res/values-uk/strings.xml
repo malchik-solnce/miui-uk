@@ -4,6 +4,14 @@
 	 <string name="low_temperature_button_ok">Зрозуміло</string>
      <string name="low_temperature_warning_message">Занадто низька температура. Телефон може бути вимкнений в будь-який час. Збережіть дані.</string>
      <string name="low_temperature_warning_title">Попередження про вимикання</string>
+	 <string name="no_sim_card">SIM-карти немає</string>
+     <string name="notch_status_bar_date_format_12">EEEE, d MMMM</string>
+     <string name="prompt_danger">Небезпечно</string>
+     <string name="prompt_detecting">Виявлення</string>
+     <string name="prompt_failure">Невдача</string>
+     <string name="prompt_return_to_split">Поділ</string>
+     <string name="prompt_safe">Безпечно</string>
+     <string name="prompt_unknown">Невідомо</string>
 	 
 	 <string name="accessibility_airplane_mode">Режим польоту</string>
 	 <string name="accessibility_drag_hint_message">Перетягніть елементи в верхню частину екрану</string>
