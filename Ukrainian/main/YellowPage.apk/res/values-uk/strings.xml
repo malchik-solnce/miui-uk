@@ -627,7 +627,7 @@
     <string name="recharge_follow_name">Сервіс поповнення</string>
     <string name="recharge_payment_error">Замовлення закрито або сталася помилка. Повторіть спробу.</string>
     <string name="recharge_phone_format">%1$s / %2$s</string>
-    <string name="rmb">RMB</string>
+    <string name="rmb">Ұ</string>
     <string name="turn_on_phone_event_summary">Завантажувати номер телефону для отримання інформації про сервіс</string>
     <string name="turn_on_phone_event_title">Отримувати інформацію про сервіс</string>
     <string name="user_notice_title">Повідомлення користувача</string>
@@ -697,7 +697,7 @@
     <string name="phone_event_setting_notice_text_with_contacts_permission">При використанні цієї функції ви приймаєте %1$s та %2$s. Також потрібен доступ до контактів для роботи деяких сервісів.</string>
     <string name="title_activity_di_di_web">DiDi</string>
 	<string name="info_divider">|</string>
-    <string name="recharge_order_actual_price">%s юань</string>
-    <string name="recharge_order_original_price">%s юань</string>
+    <string name="recharge_order_actual_price">Ұ%s</string>
+    <string name="recharge_order_original_price">Ұ%s</string>
     <string name="shop_recommendation_format">%1$s: %2$s</string>
 </resources>
